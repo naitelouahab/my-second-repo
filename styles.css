@@ -2,12 +2,12 @@ body {
   margin: 0;
   padding: 0;
   background: rgba(0, 0, 0, 0.9);
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 h2 {
-  text-align:right;
-  color: red;
+  text-align: center;
+  color: orange;
   margin-top: 70px;
 }
 
