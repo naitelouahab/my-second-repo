@@ -4,11 +4,6 @@ body {
   background: rgba(0, 0, 0, 0.9);
   font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
-/* h2 {
-  text-align: center;
-  color: orange;
-  margin-top: 70px;
-} */
 
 .app-body {
   text-align: center;
@@ -76,9 +71,6 @@ h2, h3 {
 
 ul {
   display: flex;
-  /* justify-content: center;
-  align-items: center;
-  height: 100vh; */
   margin: 0;
   padding: 0; 
 }
